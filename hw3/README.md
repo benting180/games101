@@ -1,0 +1,5 @@
+- [x] phong
+- [x] interpolation
+- [ ] texture
+- [ ] bump
+- [ ] displacement
